@@ -1,4 +1,4 @@
-[![Software Engineering](swe-banner.png)]([[https://github.com/ktorio/ktor](https://github.com/software-engineering-on-x)](https://twitter.com/i/communities/1699807431709041070)https://twitter.com/i/communities/1699807431709041070)
+[![Software Engineering](swe-banner.png)]([https://github.com/software-engineering-on-x](https://github.com/software-engineering-on-x)](https://twitter.com/i/communities/1699807431709041070)https://twitter.com/i/communities/1699807431709041070)
 
 # Welcome to the Software Engineering Community on GitHub! 👋 
 
