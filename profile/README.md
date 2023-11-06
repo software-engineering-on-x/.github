@@ -1,4 +1,4 @@
-[![Software Engineering](https://github.com/software-engineering-on-x/.github/blob/master/profile/swe-banner.png)](https://github.com/software-engineering-on-x) [![Twitter](https://img.shields.io/twitter/follow/i/communities/1699807431709041070?label=Follow%20us%20on%20Twitter&style=social)](https://twitter.com/i/communities/1699807431709041070)
+[![Software Engineering](https://github.com/software-engineering-on-x/.github/blob/master/profile/swe-banner.png)](https://github.com/software-engineering-on-x)
 
 # Welcome to the Software Engineering Community on GitHub! 👋
 
